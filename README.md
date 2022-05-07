@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://cdn.stereo-bot.tk/branding/logo.png" width="100px" />
+  <img src="https://cdn.stereo-bot.xyz/branding/logo.png" width="100px" />
   <h1 align="center">Content Delivery Network</h1>
   
   <p>A repository where we upload files for our CDN</p>
 
-  <a href="https://stereo-bot.tk/discord" target="_blank">
+  <a href="https://stereo-bot.xyz/discord" target="_blank">
     <img src="https://discord.com/api/guilds/743145077206941747/embed.png?style=banner2" />
   </a>
 </div>
